@@ -1,0 +1,62 @@
+header {
+    background-color: #2515d4;
+    text-decoration: underline;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.header-logo {
+    float: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding: 20px 40px;
+  }
+  
+  .copy-container h1 {
+    font-size: 40px;
+  }
+  
+  .copy-container h2 {
+    font-size: 20px;
+  }
+  
+  .copy-container span {
+    color: #ff4a4a;
+  }
+  
+  .contents {
+    height: 100px;
+    margin-top: 50px;
+  }
+
+  
+footer {
+    background-color: #6c63cf;   
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+.contact-form {
+    padding-top: 350px;
+  }
+  
+  
+  input, textarea {
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 30px;
+    border: 2px solid #dee7ec;
+  }
+  
+  
+  .contact-submit {
+    background-color: #15445e;
+    color: rgb(250, 255, 255);
+  }
+  .contact-form h3 {
+      text-align: center;
+  }
